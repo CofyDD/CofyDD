@@ -7,7 +7,7 @@
 
 ## 🚀 What I'm Working On
 
-- 🛠️ Building a **Practice Schedule App** MVP using **eEXPO GO & REACT NATIVE**
+- 🛠️ Building a **Practice Schedule App** MVP using **EXPO GO & REACT NATIVE**
 - 📹 Documenting my journey from **student to startup CEO** on **YouTube**
 - 🎯 Exploring how to integrate **AI in habit-tracking and productivity apps**
 
